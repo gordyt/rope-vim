@@ -1,0 +1,6 @@
+Simple loader for ropevim.  See http://rope.sourceforge.net/ropevim.html for more information.
+
+Prerequisites
+-------------
+
+sudo easy_install rope ropemode ropevim
