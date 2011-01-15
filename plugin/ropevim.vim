@@ -1,3 +1,4 @@
+%   do not load if python is not available
 if has("python")
 function! LoadRope()
 python << EOF
